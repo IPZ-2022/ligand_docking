@@ -17,5 +17,10 @@
 * obabel
 
 ## Authors
-Jakub Józefowicz, Jakub SkrajnyY, Michał Krutul, Zofia Kochańska, Julia Smolik, Mieszko Sabo
+* [Jakub Józefowicz](https://github.com/kuben-joz)
+* [Jakub Skrajny](https://github.com/kskrajny)
+* [Michał Krutul](https://github.com/crewtool)
+* [Zofia Kochańska](https://github.com/zofiakk)
+* [Julia Smolik](https://github.com/juliasmolik)
+* [Mieszko Sabo](https://github.com/mieszkosabo)
 
