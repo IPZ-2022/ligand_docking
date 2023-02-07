@@ -2,7 +2,9 @@
 
 prepare_ligands.ipynb- subset ligands to include only those which meet the requirements of Lipinski's rule of 5
 
-docking.py- Script which preapares ligands for docking and runs vina
+docking.py- script which preapares ligands for docking and runs vina
+
+Warsaw1_digest.pdf- digest of our reprot
 
 ## Requirements
 
@@ -11,4 +13,7 @@ docking.py- Script which preapares ligands for docking and runs vina
 * rdkit
 * Vina
 * obabel
+
+## Authors
+Jakub Józefowicz, Jakub SkrajnyY, Michał Krutul, Zofia Kochańska, Julia Smolik, Mieszko Sabo
 
